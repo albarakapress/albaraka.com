@@ -16,8 +16,7 @@ import {
   Eye,
   EyeOff
 } from "lucide-react";
-import { motion, AnimatePresence } from "motion/react";
-
+import { motion, AnimatePresence } from "framer-motion";
 // Types
 interface Customer {
   id: number;
